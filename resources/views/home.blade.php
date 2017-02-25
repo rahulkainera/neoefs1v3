@@ -133,15 +133,15 @@
 
                 if(sel=="Review customers portfolio")
                 {
-                    window.open("http://localhost/efs1/public/customers");
+                    window.open("/customers");
                 }
                 else if(sel=="Investments")
                 {
-                    window.open("http://localhost/efs1/public/investments");
+                    window.open("/investments");
                 }
                 else if(sel=="Stocks")
                 {
-                    window.open("http://localhost/efs1/public/stocks");
+                    window.open("/stocks");
                 }
                 else if(sel=="Mutualfunds")
                 {
