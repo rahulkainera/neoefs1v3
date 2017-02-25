@@ -112,7 +112,7 @@
 {{-- <script src="{{ elixir('js/app.js') }}"></script> --}}
 <h1 style="color:darkblue; text-align:center; font-size:500%"> <b>EAGLE FINANCIAL SERVICES</b>
 </h1>
-<h1 style="text-align:center;font-size:100%"> <a style="color:red; "href="http://localhost/efs1/public/home"> Click on the Home page </a>|
+<h1 style="text-align:center;font-size:100%"> <a style="color:red; "href="/home"> Click on the Home page </a>|
     <a href="http://www.cnn.com/us"> News </a>|
     <a href="https://www.google.com/finance?ei=s2isWLHpK6KsmgGTx4ygDQ#stockscreener"> Live Stocks</a>
 
